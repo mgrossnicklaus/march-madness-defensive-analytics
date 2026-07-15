@@ -1,0 +1,16 @@
+feature,coefficient,absolute_coefficient,direction
+(Intercept),1.5724475687824868,1.5724475687824868,Positive
+avg_drb_pct,-0.24539910748305582,0.24539910748305582,Negative
+avg_point_margin,0.08884857394345785,0.08884857394345785,Positive
+avg_estimated_possessions,0,0,Excluded
+avg_offensive_rating,0,0,Excluded
+avg_defensive_rating,0,0,Excluded
+avg_efg_pct,0,0,Excluded
+avg_true_shooting_pct,0,0,Excluded
+avg_ft_rate,0,0,Excluded
+avg_fg3_attempt_rate,0,0,Excluded
+avg_tov_pct,0,0,Excluded
+avg_forced_tov_pct,0,0,Excluded
+avg_orb_pct,0,0,Excluded
+avg_opponent_efg_pct,0,0,Excluded
+avg_opponent_ft_rate,0,0,Excluded

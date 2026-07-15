@@ -1,0 +1,5 @@
+game_id,region,round,seed,team1,team2,target_opponent,winner_placeholder,scraped_game_id,game_date,game_url
+FF_01,South,First Four,16,Alabama State,Saint Francis (PA),Auburn,Winner of FF_01,2025-03-18-18-alabama-state,2025-03-18,https://www.sports-reference.com/cbb/boxscores/2025-03-18-18-alabama-state.html
+FF_02,East,First Four,16,American,Mount St. Mary's,Duke,Winner of FF_02,2025-03-19-18-american,2025-03-19,https://www.sports-reference.com/cbb/boxscores/2025-03-19-18-american.html
+FF_03,Midwest,First Four,11,Texas,Xavier,Illinois,Winner of FF_03,2025-03-19-21-texas,2025-03-19,https://www.sports-reference.com/cbb/boxscores/2025-03-19-21-texas.html
+FF_04,South,First Four,11,San Diego State,North Carolina,Mississippi,Winner of FF_04,2025-03-18-21-san-diego-state,2025-03-18,https://www.sports-reference.com/cbb/boxscores/2025-03-18-21-san-diego-state.html

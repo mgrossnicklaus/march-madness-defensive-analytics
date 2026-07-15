@@ -1,0 +1,68 @@
+round_number,region,round,bracket_game_id,team1,team1_seed,team2,team2_seed,next_game_id,next_slot,source_game_url
+1,South,First Four,FF_01,Alabama State,16,Saint Francis (PA),16,S_R64_01,1,https://www.sports-reference.com/cbb/boxscores/2025-03-18-18-alabama-state.html
+1,South,First Four,FF_04,San Diego State,11,North Carolina,11,S_R64_05,1,https://www.sports-reference.com/cbb/boxscores/2025-03-18-21-san-diego-state.html
+1,East,First Four,FF_02,American,16,Mount St. Mary's,16,E_R64_01,1,https://www.sports-reference.com/cbb/boxscores/2025-03-19-18-american.html
+1,Midwest,First Four,FF_03,Texas,11,Xavier,11,M_R64_05,1,https://www.sports-reference.com/cbb/boxscores/2025-03-19-21-texas.html
+2,South,Round of 64,S_R64_01,Winner of FF_01,16,Auburn,1,S_R32_01,1,https://www.sports-reference.com/cbb/boxscores/2025-03-20-14-auburn.html
+2,South,Round of 64,S_R64_02,Creighton,9,Louisville,8,S_R32_01,2,https://www.sports-reference.com/cbb/boxscores/2025-03-20-12-louisville.html
+2,South,Round of 64,S_R64_03,UC San Diego,12,Michigan,5,S_R32_02,1,https://www.sports-reference.com/cbb/boxscores/2025-03-20-22-michigan.html
+2,South,Round of 64,S_R64_04,Yale,13,Texas A&M,4,S_R32_02,2,https://www.sports-reference.com/cbb/boxscores/2025-03-20-19-texas-am.html
+2,South,Round of 64,S_R64_05,Winner of FF_04,11,Mississippi,6,S_R32_03,1,https://www.sports-reference.com/cbb/boxscores/2025-03-21-16-mississippi.html
+2,South,Round of 64,S_R64_06,Lipscomb,14,Iowa State,3,S_R32_03,2,https://www.sports-reference.com/cbb/boxscores/2025-03-21-13-iowa-state.html
+2,South,Round of 64,S_R64_07,New Mexico,10,Marquette,7,S_R32_04,1,https://www.sports-reference.com/cbb/boxscores/2025-03-21-19-marquette.html
+2,South,Round of 64,S_R64_08,Bryant,15,Michigan State,2,S_R32_04,2,https://www.sports-reference.com/cbb/boxscores/2025-03-21-22-michigan-state.html
+2,East,Round of 64,E_R64_01,Winner of FF_02,16,Duke,1,E_R32_01,1,https://www.sports-reference.com/cbb/boxscores/2025-03-21-14-duke.html
+2,East,Round of 64,E_R64_02,Baylor,9,Mississippi State,8,E_R32_01,2,https://www.sports-reference.com/cbb/boxscores/2025-03-21-12-mississippi-state.html
+2,East,Round of 64,E_R64_03,Liberty,12,Oregon,5,E_R32_02,1,https://www.sports-reference.com/cbb/boxscores/2025-03-21-22-oregon.html
+2,East,Round of 64,E_R64_04,Akron,13,Arizona,4,E_R32_02,2,https://www.sports-reference.com/cbb/boxscores/2025-03-21-19-arizona.html
+2,East,Round of 64,E_R64_05,Virginia Commonwealth,11,Brigham Young,6,E_R32_03,1,https://www.sports-reference.com/cbb/boxscores/2025-03-20-16-brigham-young.html
+2,East,Round of 64,E_R64_06,Montana,14,Wisconsin,3,E_R32_03,2,https://www.sports-reference.com/cbb/boxscores/2025-03-20-13-wisconsin.html
+2,East,Round of 64,E_R64_07,Vanderbilt,10,Saint Mary's,7,E_R32_04,1,https://www.sports-reference.com/cbb/boxscores/2025-03-21-15-saint-marys-ca.html
+2,East,Round of 64,E_R64_08,Robert Morris,15,Alabama,2,E_R32_04,2,https://www.sports-reference.com/cbb/boxscores/2025-03-21-12-alabama.html
+2,West,Round of 64,W_R64_01,Norfolk State,16,Florida,1,W_R32_01,1,https://www.sports-reference.com/cbb/boxscores/2025-03-21-18-florida.html
+2,West,Round of 64,W_R64_02,Oklahoma,9,Connecticut,8,W_R32_01,2,https://www.sports-reference.com/cbb/boxscores/2025-03-21-21-connecticut.html
+2,West,Round of 64,W_R64_03,Colorado State,12,Memphis,5,W_R32_02,1,https://www.sports-reference.com/cbb/boxscores/2025-03-21-14-memphis.html
+2,West,Round of 64,W_R64_04,Grand Canyon,13,Maryland,4,W_R32_02,2,https://www.sports-reference.com/cbb/boxscores/2025-03-21-16-maryland.html
+2,West,Round of 64,W_R64_05,Drake,11,Missouri,6,W_R32_03,1,https://www.sports-reference.com/cbb/boxscores/2025-03-20-19-missouri.html
+2,West,Round of 64,W_R64_06,UNC Wilmington,14,Texas Tech,3,W_R32_03,2,https://www.sports-reference.com/cbb/boxscores/2025-03-20-22-texas-tech.html
+2,West,Round of 64,W_R64_07,Arkansas,10,Kansas,7,W_R32_04,1,https://www.sports-reference.com/cbb/boxscores/2025-03-20-19-kansas.html
+2,West,Round of 64,W_R64_08,Omaha,15,St. John's (NY),2,W_R32_04,2,https://www.sports-reference.com/cbb/boxscores/2025-03-20-21-st-johns-ny.html
+2,Midwest,Round of 64,M_R64_01,Southern Illinois–Edwardsville,16,Houston,1,M_R32_01,1,https://www.sports-reference.com/cbb/boxscores/2025-03-20-14-houston.html
+2,Midwest,Round of 64,M_R64_02,Georgia,9,Gonzaga,8,M_R32_01,2,https://www.sports-reference.com/cbb/boxscores/2025-03-20-16-gonzaga.html
+2,Midwest,Round of 64,M_R64_03,McNeese,12,Clemson,5,M_R32_02,1,https://www.sports-reference.com/cbb/boxscores/2025-03-20-15-clemson.html
+2,Midwest,Round of 64,M_R64_04,High Point,13,Purdue,4,M_R32_02,2,https://www.sports-reference.com/cbb/boxscores/2025-03-20-12-purdue.html
+2,Midwest,Round of 64,M_R64_05,Winner of FF_03,11,Illinois,6,M_R32_03,1,https://www.sports-reference.com/cbb/boxscores/2025-03-21-21-illinois.html
+2,Midwest,Round of 64,M_R64_06,Troy,14,Kentucky,3,M_R32_03,2,https://www.sports-reference.com/cbb/boxscores/2025-03-21-19-kentucky.html
+2,Midwest,Round of 64,M_R64_07,Utah State,10,UCLA,7,M_R32_04,1,https://www.sports-reference.com/cbb/boxscores/2025-03-20-21-ucla.html
+2,Midwest,Round of 64,M_R64_08,Wofford,15,Tennessee,2,M_R32_04,2,https://www.sports-reference.com/cbb/boxscores/2025-03-20-18-tennessee.html
+3,South,Round of 32,S_R32_01,,,,,S_S16_01,1,
+3,South,Round of 32,S_R32_02,,,,,S_S16_01,2,
+3,South,Round of 32,S_R32_03,,,,,S_S16_02,1,
+3,South,Round of 32,S_R32_04,,,,,S_S16_02,2,
+3,East,Round of 32,E_R32_01,,,,,E_S16_01,1,
+3,East,Round of 32,E_R32_02,,,,,E_S16_01,2,
+3,East,Round of 32,E_R32_03,,,,,E_S16_02,1,
+3,East,Round of 32,E_R32_04,,,,,E_S16_02,2,
+3,West,Round of 32,W_R32_01,,,,,W_S16_01,1,
+3,West,Round of 32,W_R32_02,,,,,W_S16_01,2,
+3,West,Round of 32,W_R32_03,,,,,W_S16_02,1,
+3,West,Round of 32,W_R32_04,,,,,W_S16_02,2,
+3,Midwest,Round of 32,M_R32_01,,,,,M_S16_01,1,
+3,Midwest,Round of 32,M_R32_02,,,,,M_S16_01,2,
+3,Midwest,Round of 32,M_R32_03,,,,,M_S16_02,1,
+3,Midwest,Round of 32,M_R32_04,,,,,M_S16_02,2,
+4,South,Sweet 16,S_S16_01,,,,,S_E8_01,1,
+4,South,Sweet 16,S_S16_02,,,,,S_E8_01,2,
+4,East,Sweet 16,E_S16_01,,,,,E_E8_01,1,
+4,East,Sweet 16,E_S16_02,,,,,E_E8_01,2,
+4,West,Sweet 16,W_S16_01,,,,,W_E8_01,1,
+4,West,Sweet 16,W_S16_02,,,,,W_E8_01,2,
+4,Midwest,Sweet 16,M_S16_01,,,,,M_E8_01,1,
+4,Midwest,Sweet 16,M_S16_02,,,,,M_E8_01,2,
+5,South,Elite Eight,S_E8_01,,,,,N_SF_01,1,
+5,East,Elite Eight,E_E8_01,,,,,N_SF_02,1,
+5,West,Elite Eight,W_E8_01,,,,,N_SF_01,2,
+5,Midwest,Elite Eight,M_E8_01,,,,,N_SF_02,2,
+6,National,Final Four,N_SF_01,,,,,N_F_01,1,
+6,National,Final Four,N_SF_02,,,,,N_F_01,2,
+7,National,Championship,N_F_01,,,,,,,

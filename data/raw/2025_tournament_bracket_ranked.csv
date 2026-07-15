@@ -1,0 +1,68 @@
+round_number,region,round,bracket_game_id,team1,team1_seed,team2,team2_seed,next_game_id,next_slot,source_game_url,team1_championship_rank,team1_championship_score,team1_adjusted_finish_score,team2_championship_rank,team2_championship_score,team2_adjusted_finish_score,baseline_favorite,baseline_underdog,baseline_favorite_score,baseline_underdog_score,baseline_quality_gap
+1,South,First Four,FF_01,Alabama State,16,Saint Francis (PA),16,S_R64_01,1,https://www.sports-reference.com/cbb/boxscores/2025-03-18-18-alabama-state.html,68,0,0.9318710047754232,67,1.492537313432836,0.9586302290101144,Saint Francis (PA),Alabama State,0.9586302290101144,0.9318710047754232,0.026759224234691237
+1,South,First Four,FF_04,San Diego State,11,North Carolina,11,S_R64_05,1,https://www.sports-reference.com/cbb/boxscores/2025-03-18-21-san-diego-state.html,47,31.34328358208955,2.0281118134643004,43,37.3134328358209,2.1026993567087566,North Carolina,San Diego State,2.1026993567087566,2.0281118134643004,0.07458754324445627
+1,East,First Four,FF_02,American,16,Mount St. Mary's,16,E_R64_01,1,https://www.sports-reference.com/cbb/boxscores/2025-03-19-18-american.html,66,2.985074626865672,1.1056510755047515,65,4.477611940298507,1.1254119010914654,Mount St. Mary's,American,1.1254119010914654,1.1056510755047515,0.01976082558671388
+1,Midwest,First Four,FF_03,Texas,11,Xavier,11,M_R64_05,1,https://www.sports-reference.com/cbb/boxscores/2025-03-19-21-texas.html,50,26.86567164179105,2.00545864639444,52,23.880597014925375,1.9581783764165,Texas,Xavier,2.00545864639444,1.9581783764165,0.047280269977940215
+2,South,Round of 64,S_R64_01,Winner of FF_01,16,Auburn,1,S_R32_01,1,https://www.sports-reference.com/cbb/boxscores/2025-03-20-14-auburn.html,,,,2,98.50746268656717,3.1539289688098515,,,,,
+2,South,Round of 64,S_R64_02,Creighton,9,Louisville,8,S_R32_01,2,https://www.sports-reference.com/cbb/boxscores/2025-03-20-12-louisville.html,49,28.35820895522388,2.023600281468194,20,71.64179104477611,2.3834187392818333,Louisville,Creighton,2.3834187392818333,2.023600281468194,0.3598184578136392
+2,South,Round of 64,S_R64_03,UC San Diego,12,Michigan,5,S_R32_02,1,https://www.sports-reference.com/cbb/boxscores/2025-03-20-22-michigan.html,9,88.05970149253731,2.7123291244522254,30,56.71641791044776,2.282188087242682,UC San Diego,Michigan,2.7123291244522254,2.282188087242682,0.43014103720954333
+2,South,Round of 64,S_R64_04,Yale,13,Texas A&M,4,S_R32_02,2,https://www.sports-reference.com/cbb/boxscores/2025-03-20-19-texas-am.html,29,58.208955223880594,2.309193295203741,39,43.28358208955224,2.182099174278609,Yale,Texas A&M,2.309193295203741,2.182099174278609,0.12709412092513217
+2,South,Round of 64,S_R64_05,Winner of FF_04,11,Mississippi,6,S_R32_03,1,https://www.sports-reference.com/cbb/boxscores/2025-03-21-16-mississippi.html,,,,38,44.776119402985074,2.191418581605381,,,,,
+2,South,Round of 64,S_R64_06,Lipscomb,14,Iowa State,3,S_R32_03,2,https://www.sports-reference.com/cbb/boxscores/2025-03-21-13-iowa-state.html,46,32.83582089552239,2.037083155862445,18,74.6268656716418,2.4730819740570373,Iowa State,Lipscomb,2.4730819740570373,2.037083155862445,0.4359988181945922
+2,South,Round of 64,S_R64_07,New Mexico,10,Marquette,7,S_R32_04,1,https://www.sports-reference.com/cbb/boxscores/2025-03-21-19-marquette.html,31,55.223880597014926,2.2782143186551544,32,53.73134328358209,2.257202698340558,New Mexico,Marquette,2.2782143186551544,2.257202698340558,0.021011620314596247
+2,South,Round of 64,S_R64_08,Bryant,15,Michigan State,2,S_R32_04,2,https://www.sports-reference.com/cbb/boxscores/2025-03-21-22-michigan-state.html,58,14.92537313432836,1.771296061812661,11,85.07462686567165,2.583958886204643,Michigan State,Bryant,2.583958886204643,1.771296061812661,0.812662824391982
+2,East,Round of 64,E_R64_01,Winner of FF_02,16,Duke,1,E_R32_01,1,https://www.sports-reference.com/cbb/boxscores/2025-03-21-14-duke.html,,,,1,100,3.385481141032093,,,,,
+2,East,Round of 64,E_R64_02,Baylor,9,Mississippi State,8,E_R32_01,2,https://www.sports-reference.com/cbb/boxscores/2025-03-21-12-mississippi-state.html,36,47.76119402985075,2.20878646919002,48,29.850746268656717,2.026615557332762,Baylor,Mississippi State,2.20878646919002,2.026615557332762,0.18217091185725787
+2,East,Round of 64,E_R64_03,Liberty,12,Oregon,5,E_R32_02,1,https://www.sports-reference.com/cbb/boxscores/2025-03-21-22-oregon.html,21,70.14925373134328,2.382425812099422,41,40.298507462686565,2.1081845270084605,Liberty,Oregon,2.382425812099422,2.1081845270084605,0.27424128509096146
+2,East,Round of 64,E_R64_04,Akron,13,Arizona,4,E_R32_02,2,https://www.sports-reference.com/cbb/boxscores/2025-03-21-19-arizona.html,44,35.82089552238806,2.086987306920169,16,77.61194029850746,2.48595695948907,Arizona,Akron,2.48595695948907,2.086987306920169,0.3989696525689008
+2,East,Round of 64,E_R64_05,Virginia Commonwealth,11,Brigham Young,6,E_R32_03,1,https://www.sports-reference.com/cbb/boxscores/2025-03-20-16-brigham-young.html,12,83.58208955223881,2.5612102076885095,24,65.67164179104478,2.3365329531517367,Virginia Commonwealth,Brigham Young,2.5612102076885095,2.3365329531517367,0.22467725453677279
+2,East,Round of 64,E_R64_06,Montana,14,Wisconsin,3,E_R32_03,2,https://www.sports-reference.com/cbb/boxscores/2025-03-20-13-wisconsin.html,62,8.955223880597014,1.455103974189695,25,64.17910447761194,2.33524138062799,Wisconsin,Montana,2.33524138062799,1.455103974189695,0.880137406438295
+2,East,Round of 64,E_R64_07,Vanderbilt,10,Saint Mary's,7,E_R32_04,1,https://www.sports-reference.com/cbb/boxscores/2025-03-21-15-saint-marys-ca.html,55,19.402985074626866,1.87521327962562,13,82.08955223880596,2.524726480639323,Saint Mary's,Vanderbilt,2.524726480639323,1.87521327962562,0.6495132010137028
+2,East,Round of 64,E_R64_08,Robert Morris,15,Alabama,2,E_R32_04,2,https://www.sports-reference.com/cbb/boxscores/2025-03-21-12-alabama.html,61,10.447761194029852,1.556323488020794,6,92.53731343283582,2.77640867454779,Alabama,Robert Morris,2.77640867454779,1.556323488020794,1.2200851865269962
+2,West,Round of 64,W_R64_01,Norfolk State,16,Florida,1,W_R32_01,1,https://www.sports-reference.com/cbb/boxscores/2025-03-21-18-florida.html,60,11.940298507462687,1.659393930083981,3,97.01492537313432,3.039703092575274,Florida,Norfolk State,3.039703092575274,1.659393930083981,1.3803091624912929
+2,West,Round of 64,W_R64_02,Oklahoma,9,Connecticut,8,W_R32_01,2,https://www.sports-reference.com/cbb/boxscores/2025-03-21-21-connecticut.html,57,16.417910447761194,1.8253383621125951,37,46.26865671641791,2.1992461241972614,Connecticut,Oklahoma,2.1992461241972614,1.8253383621125951,0.37390776208466625
+2,West,Round of 64,W_R64_03,Colorado State,12,Memphis,5,W_R32_02,1,https://www.sports-reference.com/cbb/boxscores/2025-03-21-14-memphis.html,45,34.32835820895522,2.043550309005483,42,38.80597014925373,2.1072181639284406,Memphis,Colorado State,2.1072181639284406,2.043550309005483,0.06366785492295746
+2,West,Round of 64,W_R64_04,Grand Canyon,13,Maryland,4,W_R32_02,2,https://www.sports-reference.com/cbb/boxscores/2025-03-21-16-maryland.html,54,20.895522388059703,1.8783353155585456,8,89.55223880597015,2.7453717330322727,Maryland,Grand Canyon,2.7453717330322727,1.8783353155585456,0.8670364174737271
+2,West,Round of 64,W_R64_05,Drake,11,Missouri,6,W_R32_03,1,https://www.sports-reference.com/cbb/boxscores/2025-03-20-19-missouri.html,34,50.74626865671642,2.2253846530000496,17,76.11940298507463,2.4811627769226647,Missouri,Drake,2.4811627769226647,2.2253846530000496,0.2557781239226151
+2,West,Round of 64,W_R64_06,UNC Wilmington,14,Texas Tech,3,W_R32_03,2,https://www.sports-reference.com/cbb/boxscores/2025-03-20-22-texas-tech.html,53,22.388059701492537,1.955132726306282,10,86.56716417910448,2.6732068605812658,Texas Tech,UNC Wilmington,2.6732068605812658,1.955132726306282,0.7180741342749837
+2,West,Round of 64,W_R64_07,Arkansas,10,Kansas,7,W_R32_04,1,https://www.sports-reference.com/cbb/boxscores/2025-03-20-19-kansas.html,51,25.37313432835821,1.9605376189568728,35,49.25373134328358,2.215675407087587,Kansas,Arkansas,2.215675407087587,1.9605376189568728,0.25513778813071397
+2,West,Round of 64,W_R64_08,Omaha,15,St. John's (NY),2,W_R32_04,2,https://www.sports-reference.com/cbb/boxscores/2025-03-20-21-st-johns-ny.html,64,5.970149253731344,1.3204332719257872,15,79.1044776119403,2.4874002529796604,St. John's (NY),Omaha,2.4874002529796604,1.3204332719257872,1.1669669810538732
+2,Midwest,Round of 64,M_R64_01,Southern Illinois–Edwardsville,16,Houston,1,M_R32_01,1,https://www.sports-reference.com/cbb/boxscores/2025-03-20-14-houston.html,63,7.462686567164179,1.4480510051765356,4,95.5223880597015,3.0023713597900503,Houston,Southern Illinois–Edwardsville,3.0023713597900503,1.4480510051765356,1.5543203546135147
+2,Midwest,Round of 64,M_R64_02,Georgia,9,Gonzaga,8,M_R32_01,2,https://www.sports-reference.com/cbb/boxscores/2025-03-20-16-gonzaga.html,40,41.791044776119406,2.1197494559817907,5,94.02985074626864,2.8979790631644384,Gonzaga,Georgia,2.8979790631644384,2.1197494559817907,0.7782296071826478
+2,Midwest,Round of 64,M_R64_03,McNeese,12,Clemson,5,M_R32_02,1,https://www.sports-reference.com/cbb/boxscores/2025-03-20-15-clemson.html,26,62.6865671641791,2.3349271153060336,23,67.16417910447761,2.362417014812336,Clemson,McNeese,2.362417014812336,2.3349271153060336,0.02748989950630243
+2,Midwest,Round of 64,M_R64_04,High Point,13,Purdue,4,M_R32_02,2,https://www.sports-reference.com/cbb/boxscores/2025-03-20-12-purdue.html,33,52.23880597014925,2.2301194181655237,22,68.65671641791045,2.3816427703128564,Purdue,High Point,2.3816427703128564,2.2301194181655237,0.1515233521473327
+2,Midwest,Round of 64,M_R64_05,Winner of FF_03,11,Illinois,6,M_R32_03,1,https://www.sports-reference.com/cbb/boxscores/2025-03-21-21-illinois.html,,,,19,73.13432835820896,2.46059147574095,,,,,
+2,Midwest,Round of 64,M_R64_06,Troy,14,Kentucky,3,M_R32_03,2,https://www.sports-reference.com/cbb/boxscores/2025-03-21-19-kentucky.html,56,17.91044776119403,1.8591100167618404,14,80.59701492537313,2.5030302958902775,Kentucky,Troy,2.5030302958902775,1.8591100167618404,0.6439202791284371
+2,Midwest,Round of 64,M_R64_07,Utah State,10,UCLA,7,M_R32_04,1,https://www.sports-reference.com/cbb/boxscores/2025-03-20-21-ucla.html,28,59.701492537313435,2.3140195722571506,27,61.19402985074627,2.3204862041174343,UCLA,Utah State,2.3204862041174343,2.3140195722571506,0.006466631860283734
+2,Midwest,Round of 64,M_R64_08,Wofford,15,Tennessee,2,M_R32_04,2,https://www.sports-reference.com/cbb/boxscores/2025-03-20-18-tennessee.html,59,13.432835820895525,1.716425788649167,7,91.04477611940298,2.762518249969838,Tennessee,Wofford,2.762518249969838,1.716425788649167,1.0460924613206712
+3,South,Round of 32,S_R32_01,,,,,S_S16_01,1,,,,,,,,,,,,
+3,South,Round of 32,S_R32_02,,,,,S_S16_01,2,,,,,,,,,,,,
+3,South,Round of 32,S_R32_03,,,,,S_S16_02,1,,,,,,,,,,,,
+3,South,Round of 32,S_R32_04,,,,,S_S16_02,2,,,,,,,,,,,,
+3,East,Round of 32,E_R32_01,,,,,E_S16_01,1,,,,,,,,,,,,
+3,East,Round of 32,E_R32_02,,,,,E_S16_01,2,,,,,,,,,,,,
+3,East,Round of 32,E_R32_03,,,,,E_S16_02,1,,,,,,,,,,,,
+3,East,Round of 32,E_R32_04,,,,,E_S16_02,2,,,,,,,,,,,,
+3,West,Round of 32,W_R32_01,,,,,W_S16_01,1,,,,,,,,,,,,
+3,West,Round of 32,W_R32_02,,,,,W_S16_01,2,,,,,,,,,,,,
+3,West,Round of 32,W_R32_03,,,,,W_S16_02,1,,,,,,,,,,,,
+3,West,Round of 32,W_R32_04,,,,,W_S16_02,2,,,,,,,,,,,,
+3,Midwest,Round of 32,M_R32_01,,,,,M_S16_01,1,,,,,,,,,,,,
+3,Midwest,Round of 32,M_R32_02,,,,,M_S16_01,2,,,,,,,,,,,,
+3,Midwest,Round of 32,M_R32_03,,,,,M_S16_02,1,,,,,,,,,,,,
+3,Midwest,Round of 32,M_R32_04,,,,,M_S16_02,2,,,,,,,,,,,,
+4,South,Sweet 16,S_S16_01,,,,,S_E8_01,1,,,,,,,,,,,,
+4,South,Sweet 16,S_S16_02,,,,,S_E8_01,2,,,,,,,,,,,,
+4,East,Sweet 16,E_S16_01,,,,,E_E8_01,1,,,,,,,,,,,,
+4,East,Sweet 16,E_S16_02,,,,,E_E8_01,2,,,,,,,,,,,,
+4,West,Sweet 16,W_S16_01,,,,,W_E8_01,1,,,,,,,,,,,,
+4,West,Sweet 16,W_S16_02,,,,,W_E8_01,2,,,,,,,,,,,,
+4,Midwest,Sweet 16,M_S16_01,,,,,M_E8_01,1,,,,,,,,,,,,
+4,Midwest,Sweet 16,M_S16_02,,,,,M_E8_01,2,,,,,,,,,,,,
+5,South,Elite Eight,S_E8_01,,,,,N_SF_01,1,,,,,,,,,,,,
+5,East,Elite Eight,E_E8_01,,,,,N_SF_02,1,,,,,,,,,,,,
+5,West,Elite Eight,W_E8_01,,,,,N_SF_01,2,,,,,,,,,,,,
+5,Midwest,Elite Eight,M_E8_01,,,,,N_SF_02,2,,,,,,,,,,,,
+6,National,Final Four,N_SF_01,,,,,N_F_01,1,,,,,,,,,,,,
+6,National,Final Four,N_SF_02,,,,,N_F_01,2,,,,,,,,,,,,
+7,National,Championship,N_F_01,,,,,,,,,,,,,,,,,,

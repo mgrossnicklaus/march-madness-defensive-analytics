@@ -1,0 +1,68 @@
+round_number,region,round,bracket_game_id,team1,team1_seed,team2,team2_seed,next_game_id,next_slot
+1,West,First Four,FF_01,Texas,11,NC State,11,W_R64_05,2
+1,South,First Four,FF_03,Prairie View A&M,16,Lehigh,16,S_R64_01,2
+1,Midwest,First Four,FF_02,UMBC,16,Howard,16,M_R64_01,2
+1,Midwest,First Four,FF_04,Miami (OH),11,SMU,11,M_R64_05,2
+2,East,Round of 64,E_R64_01,Duke,1,Siena,16,E_R32_01,1
+2,East,Round of 64,E_R64_02,Ohio State,8,TCU,9,E_R32_01,2
+2,East,Round of 64,E_R64_03,St. John's,5,Northern Iowa,12,E_R32_02,1
+2,East,Round of 64,E_R64_04,Kansas,4,California Baptist,13,E_R32_02,2
+2,East,Round of 64,E_R64_05,Louisville,6,South Florida,11,E_R32_03,1
+2,East,Round of 64,E_R64_06,Michigan State,3,North Dakota State,14,E_R32_03,2
+2,East,Round of 64,E_R64_07,UCLA,7,UCF,10,E_R32_04,1
+2,East,Round of 64,E_R64_08,Connecticut,2,Furman,15,E_R32_04,2
+2,West,Round of 64,W_R64_01,Arizona,1,LIU,16,W_R32_01,1
+2,West,Round of 64,W_R64_02,Villanova,8,Utah State,9,W_R32_01,2
+2,West,Round of 64,W_R64_03,Wisconsin,5,High Point,12,W_R32_02,1
+2,West,Round of 64,W_R64_04,Arkansas,4,Hawaii,13,W_R32_02,2
+2,West,Round of 64,W_R64_05,BYU,6,Winner of FF_01,11,W_R32_03,1
+2,West,Round of 64,W_R64_06,Gonzaga,3,Kennesaw State,14,W_R32_03,2
+2,West,Round of 64,W_R64_07,Miami (FL),7,Missouri,10,W_R32_04,1
+2,West,Round of 64,W_R64_08,Purdue,2,Queens (NC),15,W_R32_04,2
+2,South,Round of 64,S_R64_01,Florida,1,Winner of FF_03,16,S_R32_01,1
+2,South,Round of 64,S_R64_02,Clemson,8,Iowa,9,S_R32_01,2
+2,South,Round of 64,S_R64_03,Vanderbilt,5,McNeese,12,S_R32_02,1
+2,South,Round of 64,S_R64_04,Nebraska,4,Troy,13,S_R32_02,2
+2,South,Round of 64,S_R64_05,North Carolina,6,VCU,11,S_R32_03,1
+2,South,Round of 64,S_R64_06,Illinois,3,Penn,14,S_R32_03,2
+2,South,Round of 64,S_R64_07,Saint Mary's,7,Texas A&M,10,S_R32_04,1
+2,South,Round of 64,S_R64_08,Houston,2,Idaho,15,S_R32_04,2
+2,Midwest,Round of 64,M_R64_01,Michigan,1,Winner of FF_02,16,M_R32_01,1
+2,Midwest,Round of 64,M_R64_02,Georgia,8,Saint Louis,9,M_R32_01,2
+2,Midwest,Round of 64,M_R64_03,Texas Tech,5,Akron,12,M_R32_02,1
+2,Midwest,Round of 64,M_R64_04,Alabama,4,Hofstra,13,M_R32_02,2
+2,Midwest,Round of 64,M_R64_05,Tennessee,6,Winner of FF_04,11,M_R32_03,1
+2,Midwest,Round of 64,M_R64_06,Virginia,3,Wright State,14,M_R32_03,2
+2,Midwest,Round of 64,M_R64_07,Kentucky,7,Santa Clara,10,M_R32_04,1
+2,Midwest,Round of 64,M_R64_08,Iowa State,2,Tennessee State,15,M_R32_04,2
+3,East,Round of 32,E_R32_01,,,,,E_S16_01,1
+3,East,Round of 32,E_R32_02,,,,,E_S16_01,2
+3,East,Round of 32,E_R32_03,,,,,E_S16_02,1
+3,East,Round of 32,E_R32_04,,,,,E_S16_02,2
+3,West,Round of 32,W_R32_01,,,,,W_S16_01,1
+3,West,Round of 32,W_R32_02,,,,,W_S16_01,2
+3,West,Round of 32,W_R32_03,,,,,W_S16_02,1
+3,West,Round of 32,W_R32_04,,,,,W_S16_02,2
+3,South,Round of 32,S_R32_01,,,,,S_S16_01,1
+3,South,Round of 32,S_R32_02,,,,,S_S16_01,2
+3,South,Round of 32,S_R32_03,,,,,S_S16_02,1
+3,South,Round of 32,S_R32_04,,,,,S_S16_02,2
+3,Midwest,Round of 32,M_R32_01,,,,,M_S16_01,1
+3,Midwest,Round of 32,M_R32_02,,,,,M_S16_01,2
+3,Midwest,Round of 32,M_R32_03,,,,,M_S16_02,1
+3,Midwest,Round of 32,M_R32_04,,,,,M_S16_02,2
+4,East,Sweet 16,E_S16_01,,,,,E_E8_01,1
+4,East,Sweet 16,E_S16_02,,,,,E_E8_01,2
+4,West,Sweet 16,W_S16_01,,,,,W_E8_01,1
+4,West,Sweet 16,W_S16_02,,,,,W_E8_01,2
+4,South,Sweet 16,S_S16_01,,,,,S_E8_01,1
+4,South,Sweet 16,S_S16_02,,,,,S_E8_01,2
+4,Midwest,Sweet 16,M_S16_01,,,,,M_E8_01,1
+4,Midwest,Sweet 16,M_S16_02,,,,,M_E8_01,2
+5,East,Elite Eight,E_E8_01,,,,,N_SF_01,1
+5,West,Elite Eight,W_E8_01,,,,,N_SF_02,1
+5,South,Elite Eight,S_E8_01,,,,,N_SF_01,2
+5,Midwest,Elite Eight,M_E8_01,,,,,N_SF_02,2
+6,National,Final Four,N_SF_01,,,,,N_F_01,1
+6,National,Final Four,N_SF_02,,,,,N_F_01,2
+7,National,Championship,N_F_01,,,,,,
